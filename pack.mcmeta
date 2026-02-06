@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 34,
+	"supported_formats": {"min_inclusive": 34, "max_inclusive": 64},
+	"min_format": [34,1],
+	"max_format": [69,1],
+    "description": "Fixes axe weapons not being axes \u00A74REQUIRES FIRMAMENT"
+  }
+}
