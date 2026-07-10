@@ -3,7 +3,7 @@ Fixes relevang axe weapons that are no longer weapons since the "foraging update
 ## Requires [NoResourcePack](https://modrinth.com/mod/noresourcepack)
 ### Be sure to add a NoResourcePack whitelist to the items you want fixed
 
-[img](image1.png)
+<img src="image1.png">
 
 Relevant weapons fixed:
 - Halberd of the Shredded -> Back to axe
