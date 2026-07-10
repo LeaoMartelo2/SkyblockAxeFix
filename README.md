@@ -1,4 +1,4 @@
-Fixes relevang axe weapons that are no longer weapons since the "foraging update" on Hypixel Skyblock
+Fixes relevant axe weapons that are no longer weapons since the "foraging update" on Hypixel Skyblock
 \+ some random misc changes since the "texture update" <-- stupid
 ## Requires [NoResourcePack](https://modrinth.com/mod/noresourcepack)
 ### Be sure to add a NoResourcePack whitelist to the items you want fixed
