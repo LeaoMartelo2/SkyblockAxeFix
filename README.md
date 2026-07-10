@@ -4,6 +4,7 @@ Fixes relevant axe weapons that are no longer weapons since the "foraging update
 ### Be sure to add a NoResourcePack whitelist to the items you want fixed
 
 <img src="image1.png">
+### Note: This only sets the texture target to the vanilla one, you can still use a pack that overrides the vanilla items
 
 Relevant weapons fixed:
 - Halberd of the Shredded -> Back to axe
